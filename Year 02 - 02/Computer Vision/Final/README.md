@@ -1,1 +1,1 @@
-# The files in Midterm folder :)
+# The files are in Midterm folder :)
